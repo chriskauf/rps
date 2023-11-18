@@ -1,2 +1,2 @@
 # rps
-rock paper scissors game
+my first project -- rock paper scissors game
